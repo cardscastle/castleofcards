@@ -27,7 +27,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="2"
-     inkscape:cx="167.5"
+     inkscape:cx="167"
      inkscape:cy="39.25"
      inkscape:window-width="1600"
      inkscape:window-height="1131"
@@ -43,63 +43,63 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="0.92130476"
        y="16.38397"
        id="text1"><tspan
          sodipodi:role="line"
          id="tspan1"
-         style="font-size:16.9333px;fill:#ececec;stroke-width:0.264583"
+         style="font-size:16.9333px;fill:#e6e6e6;stroke-width:0.264583"
          x="0.92130476"
          y="16.38397">CΛSTLE OF CΛRDS</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="46.430225"
        y="16.323956"
        id="text2"><tspan
          sodipodi:role="line"
          id="tspan2"
-         style="stroke-width:0.264583" /></text>
+         style="stroke-width:0.264583;fill:#e6e6e6" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="61.482895"
        y="15.984552"
        id="text3"><tspan
          sodipodi:role="line"
          id="tspan3"
-         style="stroke-width:0.264583" /></text>
+         style="stroke-width:0.264583;fill:#e6e6e6" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:0;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:0;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="35.782558"
        y="13.035688"
        id="text4"><tspan
          id="tspan4"
-         style="stroke-width:0.264583"
+         style="stroke-width:0.264583;fill:#e6e6e6"
          x="35.782558"
          y="13.035688" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="14.737601"
        y="14.926044"
        id="text5"><tspan
          sodipodi:role="line"
          id="tspan5"
-         style="font-size:8.46667px;fill:#ececec;stroke-width:0.264583"
+         style="font-size:8.46667px;fill:#e6e6e6;stroke-width:0.264583"
          x="14.737601"
          y="14.926044">♣</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="113.23012"
        y="14.868063"
        id="text5-5"><tspan
          sodipodi:role="line"
          id="tspan5-3"
-         style="font-size:8.46667px;fill:#ececec;stroke-width:0.264583"
+         style="font-size:8.46667px;fill:#e6e6e6;stroke-width:0.264583"
          x="113.23012"
          y="14.868063">♠</tspan></text>
   </g>
