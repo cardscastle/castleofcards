@@ -3,8 +3,8 @@ layout: page
 #
 # Content
 #
-#subheadline: ""
-title: "Relatiegeschenk"
+subheadline: "Kaartspel op maat"
+title: "Relatiegeschenken"
 #teaser: ""
 breadcrumb: true
 permalink: "/kaartspellen/relatiegeschenken/"
