@@ -14,7 +14,7 @@ widget1:
 widget2:
   title: "Speciale edities"
   url: '/kaartspellen/'
-  text: '.'
+  text: 'Nog een origineel cadeautje nodig voor de feestdagen?'
 widget3:
   title: "Relatiegeschenken"
   url: '/kaartspellen/relatiegeschenken/'
