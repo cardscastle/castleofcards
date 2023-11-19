@@ -12,6 +12,9 @@
 - title: "Kaartspellen"
   url: "/kaartspellen/"
   side: left
+  dropdown:
+    - title: "Relatiegeschenk"
+      url: "/relatiegeschenk/"
  
 - title: Blog
   url: "/blog/"
