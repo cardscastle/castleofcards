@@ -1,0 +1,25 @@
+- title: Start
+  url: "/"
+  side: left
+
+- title: Over Castle of Cards
+  url: "/castle-of-cards/"
+  side: left
+  dropdown:
+    - title: "Duurzame kaarten"
+      url: "/duurzame-kaarten/"
+
+- title: "Kaartspellen"
+  url: "/kaartspellen/"
+  side: left
+ 
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
