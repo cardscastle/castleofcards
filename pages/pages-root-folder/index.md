@@ -7,6 +7,8 @@
 layout: frontpage
 header:
   image_fullwidth: "paul-cézanne-kaartspelers.jpg"
+  caption: Paul Cézanne
+  caption_url: "https://commons.wikimedia.org/wiki/File:Les_Joueurs_de_cartes,_par_Paul_C%C3%A9zanne.jpg" 
 widget1:
   title: "Een mooi produkt"
   url: '/duurzame-kaarten/'
