@@ -14,7 +14,7 @@
   side: left
   dropdown:
     - title: "Relatiegeschenken"
-      url: "/relatiegeschenken/"
+      url: "/kaartspellen/relatiegeschenken/"
  
 - title: Blog
   url: "/blog/"
