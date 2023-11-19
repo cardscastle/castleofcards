@@ -6,6 +6,7 @@ layout: page
 subheadline: "Duurzaam spelplezier"
 title: "Castle of Cards"
 teaser: "Speel je met ons mee?"
+breadcrumb: true
 categories:
   - 
 tags:

@@ -6,6 +6,7 @@ layout: page
 #subheadline: ""
 title: "Duurzame Kaartspellen"
 #teaser: ""
+breadcrumb: true
 permalink: "/duurzame-kaarten/"
 ---
 

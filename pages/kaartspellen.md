@@ -6,6 +6,7 @@ layout: page
 #subheadline: ""
 title: "Kaartspellen"
 #teaser: ""
+breadcrumb: true
 permalink: "/kaartspellen/"
 ---
 
