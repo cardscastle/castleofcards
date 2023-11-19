@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  #image_fullwidth: "een-foto-voor-de-header.jpg"
+  image_fullwidth: "paul-cézanne-kaartspelers.jpg"
 widget1:
   title: "Een mooi produkt"
   url: '/duurzame-kaarten/'
