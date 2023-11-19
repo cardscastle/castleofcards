@@ -2,6 +2,8 @@
 
 Repository for the Castle of Cards Web page.
 
+## Configuration
+
 Configured www.castleofcards.nl according to https://help.github.com/articles/tips-for-configuring-a-cname-record-with-your-dns-provider/
 
 Test:
