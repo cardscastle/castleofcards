@@ -6,7 +6,7 @@ layout: page
 #subheadline: ""
 title: "Relatiegeschenk"
 #teaser: ""
-permalink: "/kaartspellen/relatiegeschenk/"
+permalink: "/kaartspellen/relatiegeschenken/"
 ---
 
 Wij helpen u graag om een kaartspel als __relatiegeschenk__ te ontwikkelen.
