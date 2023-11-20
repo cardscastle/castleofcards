@@ -1,8 +1,1 @@
----
-layout: blog
-title: "Blog of Feeling Responsive"
-teaser: "This is the Feeling Responsive Blog Template."
-header:
-    image_fullwidth: "header-bus.jpg"
----
 
