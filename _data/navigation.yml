@@ -1,20 +1,20 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
-- title: Castle of Cards
-  url: "/castle-of-cards/"
+- title: Ons Verhaal 
+  url: "/ons-verhaal/"
   side: left
   dropdown:
-    - title: "Duurzame kaarten"
-      url: "/duurzame-kaarten/"
+    #- title: "Duurzame kaarten"
+    #  url: "/duurzame-kaarten/"
 
 - title: "Kaartspellen"
   url: "/kaartspellen/"
   side: left
-  dropdown:
-    - title: "Relatiegeschenken"
-      url: "/kaartspellen/relatiegeschenken/"
+    #  dropdown:
+    #- title: "Relatiegeschenken"
+    #  url: "/kaartspellen/relatiegeschenken/"
  
 - title: "Contact"
   url: "/contact/"
