@@ -6,7 +6,7 @@ layout: page
 subheadline: "Kaartspel op maat"
 title: "Relatiegeschenken"
 #teaser: ""
-breadcrumb: true
+#breadcrumb: true
 permalink: "/kaartspellen/relatiegeschenken/"
 ---
 

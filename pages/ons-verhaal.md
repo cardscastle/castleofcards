@@ -6,7 +6,7 @@ layout: page
 subheadline: "Duurzaam spelplezier"
 title: "Ons Verhaal"
 teaser: "Speel je met ons mee?"
-breadcrumb: true
+#breadcrumb: true
 categories:
   - 
 tags:
