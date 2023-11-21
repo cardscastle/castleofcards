@@ -10,7 +10,8 @@ title: "Kaartspellen"
 permalink: "/kaartspellen/"
 ---
 
-Bestel nu ons prachtig ontworpen __standaardspel__ voor slechts € 8,88 per pakje.
+Bestel nu ons prachtig ontworpen __standaardspel__ of __kersteditie__ voor slechts € 7,99 per pakje.
 
-{% include alert warning='Speciale __kersteditie__ voor € 9,99, vandaag besteld en voor de kerst in huis.' %}
+{% include alert warning='Speciale Aanbieding: 2 kaartspellen naar keuze voor € 14,99 !' %}
+
 
