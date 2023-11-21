@@ -16,13 +16,6 @@
     - title: "Relatiegeschenken"
       url: "/kaartspellen/relatiegeschenken/"
  
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
-
 - title: "Contact"
   url: "/contact/"
   side: right
