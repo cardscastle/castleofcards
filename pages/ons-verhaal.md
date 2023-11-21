@@ -14,7 +14,7 @@ tags:
 #
 # Styling
 #
-#image: "nog-een-mooi-beeld-nodig.jpg"
+image: "ons-verhaal.jpg"
 permalink: "/ons-verhaal/"
 ---
 
