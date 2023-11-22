@@ -14,7 +14,7 @@ tags:
 #
 # Styling
 #
-image: "ons-verhaal.jpg"
+image: "foto1.jpg"
 permalink: "/ons-verhaal/"
 ---
 
