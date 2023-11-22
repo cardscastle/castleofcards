@@ -4,10 +4,12 @@ layout: page
 # Content
 #
 #subheadline: ""
+header:
+  image_fullwidth: "final-website.jpg"
 title: "Kaartspellen"
 #teaser: ""
 #breadcrumb: true
-image: "final-website"
+
 permalink: "/kaartspellen/"
 ---
 
