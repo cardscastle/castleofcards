@@ -10,8 +10,6 @@ permalink: "/contact/"
 
 Om online een kaartspel te bestellen gelieve een mailtje te sturen naar info.castleofcards@gmail.com met uw naam, adres en order. U zult dan zsm een mailtje met een betaalverzoek krijgen en dan sturen wij het op. 
 
-
-
 Voor andere vragen, kunt u altijd een mailtje sturen naar info.castleofcards@gmail.com
 
 Of bel een van de medewerkers:

@@ -3,6 +3,8 @@ layout: page
 #
 # Content
 #
+header:
+    image_fullwidth: "foto1.jpg"
 subheadline: "Duurzaam Genieten"
 title: "Ons Verhaal"
 #teaser: ""
@@ -14,8 +16,7 @@ tags:
 #
 # Styling
 #
-header:
-    image: "foto1.jpg"
+
 
 permalink: "/ons-verhaal/"
 ---

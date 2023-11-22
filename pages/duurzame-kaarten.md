@@ -3,15 +3,13 @@ layout: page
 #
 # Content
 #
-#subheadline: ""
+subheadline: "Duurzaam Genieten"
 title: "Duurzame Kaartspellen"
 #teaser: ""
 #breadcrumb: true
 permalink: "/duurzame-kaarten/"
 ---
 
-Onze missie is om __duurzame__ kaartspellen te ontwikkelen.
+Wij hebben 2 bijzondere kaartspellen gemaakt: de __Originele editie__ en __Kersteditie__. Deze duurzame kaarten hebben we zelf ontworpen en laten bedrukken in Nederland. De kerstkaarten hebben elk een uniek design in kerstsfeer met bijvoorbeeld kerstbomen, kerstballen en kerstmannen in verschillende kunststijlen. 
 
-We laten zien hoe mooi een kaartspel kan zijn, juist als je het van duurzaam materiaal maakt.
-
-Ons ideale kaartspel is van watervast steenpapier, maar daarvoor moeten we nog wat hindernissen overbruggen.
+Hieronder ziet u er een paar.

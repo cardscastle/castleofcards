@@ -11,11 +11,11 @@ header:
   #caption: Paul Cézanne
   #caption_url: "https://commons.wikimedia.org/wiki/File:Les_Joueurs_de_cartes,_par_Paul_C%C3%A9zanne.jpg" 
 widget1:
-  title: "Een mooi produkt"
+  title: "De Designs"
   url: '/duurzame-kaarten/'
   text: 'Prachtige kaartspellen van duurzaam materiaal.'
 widget2:
-  title: "Speciale edities"
+  title: "Kaarten Kopen"
   url: '/kaartspellen/'
   text: 'Nog een origineel cadeautje nodig voor de feestdagen?'
 widget3:
