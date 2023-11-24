@@ -8,7 +8,7 @@ title: "Duurzame Kaartspellen"
 #teaser: ""
 #breadcrumb: true
 permalink: "/duurzame-kaarten/"
-image: "klaverA.jpg"
+image_fullwidth: "klaverA.jpg"
 image: "Joker.jpg"
 image: "Harten2.jpg"
 image: "schoppenK.jpg"
